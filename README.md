@@ -1,2 +1,0 @@
-# practica-api
-Examen Practico
